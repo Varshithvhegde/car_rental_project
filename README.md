@@ -53,3 +53,12 @@
 - The search button will search for the car based on the search bar input.
 - The car shown only on the car listing page will be the car that is available.
 
+## Admin Page
+
+- The admin page will have a car listing table.
+- It has a button to add a new car.
+- The button will open a new page where the admin can add a new car.
+- The admin can add a new car by filling in the form.
+- The admin can also delete a car by clicking the delete button.
+- Admin can view user reservation by clicking the view button.
+
