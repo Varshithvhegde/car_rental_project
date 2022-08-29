@@ -115,7 +115,8 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ##  License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) © [Varshith Hegde](https://github.com/Varshithvhegde)
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Demo
 
