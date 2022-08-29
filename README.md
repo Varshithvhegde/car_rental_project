@@ -102,7 +102,7 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Project Report
 
-- The project report is stored in a folder called project report.
+- The project report is stored in a folder called [report].
 - Report consists of the following:
     - Introduction
     - Literature Review
