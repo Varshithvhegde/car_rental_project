@@ -1,25 +1,24 @@
 ![frame_firefox_mac_dark](https://user-images.githubusercontent.com/80502833/187224151-39cf3a83-b060-4286-8eb2-84d26f19c2a8.png)
 
-# Car Rental Website Project
+<h1 align="center">Car Rental Website Project</h1>  
 
 This is a project for a car rental website. It is a project for the College Mini Project.
 
 ## Table of Contents
 
-- [Car Rental Website Project](#car-rental-website-project)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Requirements](#requirements)
-  - [Installation](#installation)
-  - [Database](#database)
-  - [Table](#table)
-  - [Car Listing Page](#car-listing-page)
-  - [User Story](#user-story)
-  - [Admin Page](#admin-page)
-  - [License](#license)
-  - [Demo](#demo)
-  - [Authors](#authors)
-  - [Support](#support)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Database](#database)
+- [Table](#table)
+- [Car Listing Page](#car-listing-page)
+- [User Story](#user-story)
+- [Admin Page](#admin-page)
+- [License](#license)
+- [Demo](#demo)
+- [Authors](#authors)
+- [Support](#support)
 
 
 ## Introduction
