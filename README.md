@@ -1,5 +1,24 @@
 # Car Rental Website Project
 
+This is a project for a car rental website. It is a project for the College Mini Project.
+
+## Table of Contents
+
+- [Car Rental Website Project](#car-rental-website-project)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Database](#database)
+  - [Table](#table)
+  - [Car Listing Page](#car-listing-page)
+  - [User Story](#user-story)
+  - [Admin Page](#admin-page)
+  - [License](#license)
+  - [Demo](#demo)
+  - [Authors](#authors)
+
+
 ## Introduction
 
 - This is a car rental website project.
@@ -53,6 +72,16 @@
 - The search button will search for the car based on the search bar input.
 - The car shown only on the car listing page will be the car that is available.
 
+## User Story
+
+- As a user, I want to be able to search for a car.
+- As a user, I want to be able to see the car that is available.
+- As a user, I want to be able to reserve a car.
+- As a user, I want to be able to return a car.
+- As a user, I want to be able to see the car that I have reserved.
+- As a user, I want to provide feedback to the car rental website.
+- As a user, I should be able to make payment for the car rental.
+
 ## Admin Page
 
 - The admin page will have a car listing table.
@@ -61,4 +90,24 @@
 - The admin can add a new car by filling in the form.
 - The admin can also delete a car by clicking the delete button.
 - Admin can view user reservation by clicking the view button.
+- Admin can view user return by clicking the view button.
+- Admin can accept or reject a reservation by clicking the accept or reject button.
+- Admin can return a car by clicking the return button.
+- Admin can delete a reservation by clicking the delete button.
+- Admin can view feedback by clicking the view button.
+
+
+##  License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Demo
+
+- [Live Deployment](https://carsminiproject.000webhostapp.com/)
+- [Video Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
+
+## Authors 
+
+
+
 
