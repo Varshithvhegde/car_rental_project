@@ -18,7 +18,7 @@ This is a project for a car rental website. It is a project for the College Mini
 - [License](#license)
 - [Demo](#demo)
 - [Authors](#authors)
-- [Support](#support)
+- [Show your support](#show-your-support)
 
 
 ## Introduction
@@ -113,7 +113,11 @@ This is a project for a car rental website. It is a project for the College Mini
 - [Varshith V Hegde](https://github.com/Varshithvhegde)
 - [Swasthik Jain PM](https://github.com/Swasthik-Jain)
 
-## Support 
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
 
 
 
