@@ -46,5 +46,10 @@
     - car_image: VARCHAR(255)
     - car_description: VARCHAR(255)
 
+##  Car Listing Page
 
+- The car listing page will have a search bar and a car listing table.
+- The search bar will have a search button.
+- The search button will search for the car based on the search bar input.
+- The car shown only on the car listing page will be the car that is available.
 
