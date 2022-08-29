@@ -16,5 +16,10 @@
 
 ##  Installation
 
-
+- Install XAMPP.
+- Open XAMPP and click on the Start button.
+- Clone the project to the root of the XAMPP server.
+- Open the project in XAMPP.
+- Import SQL file from database folder to the XAMPP server.
+- Open Browser and navigate to [localhost:8080](localhost:8080).
 
