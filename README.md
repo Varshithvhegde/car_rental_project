@@ -53,6 +53,7 @@ This is a project for a car rental website. It is a project for the College Mini
 - The database is stored in the root of the XAMPP server.
 - The database is imported to the XAMPP server.
 - Database used is MySQL.
+- Database Connection page is named [connection.php](/connection.php).
 
 ## Table
 
